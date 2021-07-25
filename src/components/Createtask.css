@@ -1,0 +1,18 @@
+.tasks{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height:400px;
+    padding:10px;
+    background-color: burlywood;
+}
+.buttons{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.savebut{
+    padding: 5px;
+    background-color: green;
+}

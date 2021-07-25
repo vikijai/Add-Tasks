@@ -1,0 +1,19 @@
+.card{
+    margin: 10px;
+    display: flex;
+    width: 300px;
+    padding:10px;
+    background-color: grey;
+}
+.cardleft{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+.cardright{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
